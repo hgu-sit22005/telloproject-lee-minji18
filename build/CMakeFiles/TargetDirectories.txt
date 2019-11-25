@@ -1,0 +1,3 @@
+/data/telloproject-lee-minji18/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-lee-minji18/build/CMakeFiles/TelloPro.dir
+/data/telloproject-lee-minji18/build/CMakeFiles/edit_cache.dir
